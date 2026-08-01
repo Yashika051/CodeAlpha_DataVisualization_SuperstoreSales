@@ -4,6 +4,12 @@ An interactive Business Intelligence dashboard built with **Streamlit**, **Panda
 
 ---
 
+## 🌐 Live Dashboard
+
+Explore the interactive dashboard here:
+
+[Superstore Sales Dashboard] https://superstoresales-dashboard.streamlit.app/
+
 ## 📌 Project Overview
 
 This project transforms raw Superstore sales data into an interactive dashboard that enables users to explore business performance through dynamic visualizations. It helps identify sales trends, profitable product categories, regional performance, customer segments, and the impact of discounts on profitability.
